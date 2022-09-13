@@ -5,7 +5,7 @@ public class Task2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int day = sc.nextInt();
-        if(day == 1){
+        if (day == 1) {
             System.out.println("Понедельник");
         } else if(day == 2) {
             System.out.println("Вторник");
