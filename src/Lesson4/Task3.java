@@ -12,6 +12,5 @@ public class Task3 {
             f0 = f1;
             f1 = f2;
         }
-        System.out.println();
     }
 }
